@@ -1,0 +1,5 @@
+DoxygenDocs.docset
+build
+.*~$
+MFTask.xcodeproj/iracooke
+doc
